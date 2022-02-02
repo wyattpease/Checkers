@@ -1,0 +1,11 @@
+GAME
+BLACK
+296.789
+.b.b.b.b
+b.b.b.b.
+...b...b
+w.b.b...
+........
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
